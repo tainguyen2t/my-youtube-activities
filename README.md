@@ -3,11 +3,11 @@
 This project dives into my **YouTube watching history** — from hours of `Billiard Carom` matches I swore I’d learn from 🎱, to Vietnamese game shows - `2 Ngày 1 Đêm` -  where everyone’s laughing but I’m just procrastinating.  
 From rap playlists (`B Ray`, `Post Malone`, `MCK`, `Bạn có tài mà` on repeat) to late-night `Mixigaming` streams, this is basically my **visual diary of how I kill time** 📺.  
 
-<img src="outputs/images/VI.2.2.-TREEMAP-TOP-CHANNELs.png" width="800">
+<img src="outputs/images/VII.2.2.-TREEMAP-TOP-CHANNELs.png" width="800">
 
 ## Project information
 - **Conducted by**: Tai Nguyen *(tainguyen0604@gmail.com)*
-- **Period**: Aug 24th - Aug 25th 2025 *(Data exported from Google Takeout – timestamps normalized to UTC+7)*
+- **Period**: Aug 24th - Aug 26th 2025 *(Data exported from Google Takeout – timestamps normalized to UTC+7)*
 - **Contribution breakdown:**
     | Source             | Description                                                                 | %     |
     |--------------------|----------------------------------------------------------------------------|-------|
